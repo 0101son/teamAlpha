@@ -1,5 +1,3 @@
 # teamAlpha
-[VSCode](https://rswm-ju.tistory.com/2)를 사용합니다.
-Python 3.10.11 32bit 버전을 기본으로 사용하갰습니다.
 
-github과 git이 무엇인지에 대해서는 [이 영상](https://www.youtube.com/watch?v=Fley6IFhlC8)을 참조해주세요
+공부해야 할 내용은 [위키 페이지](https://github.com/0101son/teamAlpha/wiki/%EA%B3%B5%EB%B6%80-%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84)를 참고해주세요\
