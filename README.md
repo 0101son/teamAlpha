@@ -16,7 +16,6 @@ https://www.youtube.com/watch?v=Fley6IFhlC8
 # 0. 개발환경 세팅
 - VScode
 - Python
-https://rswm-ju.tistory.com/2
 
 # 1. 파이썬 및 절차/객체 지향 이해
 ### 절차지향
@@ -47,6 +46,7 @@ https://rswm-ju.tistory.com/2
 ### 예시 코드 분석
 
 # 3. 실시간 이미지 처리 완성
+
 ### 예시 코드 실행
 
 ### 실시간 처리 코드 완성
