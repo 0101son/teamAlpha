@@ -28,7 +28,7 @@ https://www.youtube.com/watch?v=Fley6IFhlC8
 - 클래스
 - 인스턴스
 - 스태틱 개념
-- 메서드 -> cv2.
+- 메서드
 - 프로퍼티 
 - ~~상속~~
 - ~~디자인 패턴~~
